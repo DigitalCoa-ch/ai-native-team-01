@@ -21,3 +21,7 @@ The Lab Director has initialized this repository with a basic Next.js homepage.
 - **Architecture:** OpenClaw (Workbench) -> GitHub (Code) -> Vercel (Live).
 - **Crucial Guardrail:** Do NOT ask the AI to commit `node_modules` or large system files. The AI is instructed to keep the repository clean.
 - **Cleanliness:** Only source code and documentation should ever be committed.
+## ⚠️ BUILD ALERT
+Your last deployment failed: "No Output Directory named 'public' found".
+I have added a public/ folder and a vercel.json.
+**Action Required:** Please check your package.json and ensure you can run npm run build locally.
