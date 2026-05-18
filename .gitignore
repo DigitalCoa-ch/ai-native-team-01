@@ -2,3 +2,8 @@ node_modules
 .next
 .openclaw/logs
 *.log
+
+# Vercel / Build
+next.config.js
+next-env.d.ts
+package-lock.json
