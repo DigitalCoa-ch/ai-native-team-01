@@ -7,6 +7,10 @@ export default function Home() {
       <hr />
       <p>GitHub: ai-native-team-01</p>
       <p>URL: team-01.apps.digitalcoa.ch</p>
+      <hr />
+      <p style={{ color: '#16a34a', fontSize: '1.1rem', fontWeight: '600' }}>
+        ✅ Edit confirmed — pipeline is working!
+      </p>
     </div>
   );
 }
